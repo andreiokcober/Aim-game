@@ -5,7 +5,7 @@ const timeBtn = document.querySelector('#time')
 const board = document.querySelector('#board')
 const deleteH3 = document.querySelector('.delete')
 
-let colors = []
+let saveTime = []
 
 
 
